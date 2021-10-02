@@ -1,1 +1,1 @@
-# HackerRank-30-Days-of-code-in-Java
+HackerRank - 30 Days of Code - Java
